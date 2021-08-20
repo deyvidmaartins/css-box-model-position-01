@@ -1,0 +1,28 @@
+#img1 {
+    border: 5px solid red;
+    padding: 10px;
+    margin: 5px;
+}
+#img2 {
+    border: 10px dotted black;
+    padding: 10px;
+    margin: 5px;
+}
+#img3 {
+    border: 15px outset orange;
+    padding: 10px;
+    margin: 5px;
+}
+#img4 {
+    border: 20px double brown;
+    padding: 10px;
+    margin: 5px;
+}
+#img5 {
+    border: 25px groove greenyellow;
+    padding: 10px;
+    margin: 5px;
+}
+body {
+    background-color: grey;
+}

@@ -1,0 +1,11 @@
+div.box {
+    width: 300;
+    display: inline-block;
+    border: coral 4px solid;
+}
+img {
+    opacity: 0.7;
+}
+body {
+    background-color: grey;
+}
